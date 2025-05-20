@@ -22,10 +22,13 @@ Este proyecto es una aplicación básica en Python para gestionar películas de 
   - `__eq__()`: Compara dos películas por su código.
 
 ## Instrucciones de ejecución
-
 1. Asegúrate de tener Python 3 instalado.
 2. Clona o descarga este repositorio en tu equipo.
 3. Abre una terminal en la carpeta del proyecto.
 4. Ejecuta el archivo `main.py`:
 
 # Kevin Yersey Vaquiro Castiblanco
+
+
+## Explicación del repositorio 
+-Este archivo contiene los archivos que se realizaron en el parcial, el codigo .py, main y README.
